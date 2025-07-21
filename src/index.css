@@ -44,12 +44,6 @@ img {
   transition: all 0.3s ease;
 }
 
-/* Selection styling */
-::selection {
-  background: #14b8a6;
-  color: #0f172a;
-}
-
 /* Link hover effects */
 a {
   transition: all 0.3s ease;
