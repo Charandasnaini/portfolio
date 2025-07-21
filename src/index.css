@@ -39,6 +39,11 @@ body {
   outline-offset: 2px;
 }
 
+/* Remove focus outline for navigation buttons */
+nav button:focus {
+  outline: none;
+}
+
 /* Enhanced image loading */
 img {
   transition: all 0.3s ease;
